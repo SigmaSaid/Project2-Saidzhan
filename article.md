@@ -44,6 +44,7 @@ Crime at Stanford rarely resembled the dramatic scenes of detective novels. More
 
 ## Note on Sources
 
+<<<<<<< HEAD
 This story dramatizes recurring patterns documented in the 
 Stanford Daily police blotter (*stanforddams/daily* dataset, 2021–2026). 
 The narrative is grounded in the following documented incidents:
@@ -54,3 +55,10 @@ The narrative is grounded in the following documented incidents:
 
 
 The fictional character of Maya represents students affected by unattended-electronics theft, which appears repeatedly in the dataset. The pattern of a suspect targeting multiple buildings reflects documented repeat-offender cases in the data. All specific details of the arrest and recovery are dramatized, but the underlying crime patterns—opportunity-driven theft of unattended property—are derived from actual police blotter entries. For the complete raw entries underlying this analysis, see `sources.txt`.
+=======
+This story dramatizes recurring patterns documented in the Stanford Daily police blotter (*stanforddams/daily* dataset, 2021–2026).
+
+The narrative is grounded in documented incidents of unattended-electronics theft and bicycle theft that appear repeatedly throughout the dataset. The fictional character of Maya represents students affected by these opportunity-driven thefts. The pattern of a suspect targeting multiple buildings reflects documented repeat-offender cases in the data. All specific details of the arrest and recovery are dramatized, but the underlying crime patterns—opportunity-driven theft of unattended property—are derived from actual police blotter entries.
+
+For the complete raw entries underlying this analysis, see `sources.txt`.
+>>>>>>> dd24f78de11ac32bfe7e2881fe4a5e8574a38d11
