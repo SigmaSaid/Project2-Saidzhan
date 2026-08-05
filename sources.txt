@@ -1,0 +1,201 @@
+Sources and Raw Entries from Stanford Daily Police Blotter
+Dataset: stanforddams/daily on Hugging Face
+============================================================
+
+## Petty Theft
+
+- Title: Police Blotter: Bike theft, stalking, arson
+  Entry: Between 10 and 10:45 a.m., a petty theft occurred at the Mechanical Engineering Administrative Building.
+
+- Title: Police blotter: Bike theft, vehicle burglary, hit and run
+  Entry: Between 11 a.m. on Sept. 21 and 8:30 a.m., petty theft occurred at 450 Jane Stanford Way.
+
+- Title: Police Blotter: Bike theft, vehicle burglary, battery
+  Entry: At an unknown time and location, petty theft occurred.
+
+- Title: Police Blotter: Vehicle burglary, bike theft, disorderly conduct
+  Entry: Between 8 a.m. and 5 p.m., a petty theft occurred at Escondido Village Studio 6.
+
+- Title: Police Blotter: Rape, battery, bike theft
+  Entry: Between 6:30 p.m. and 6:45 p.m., a petty theft occurred at Green Library.
+
+
+## Grand Theft
+
+- Title: Police Blotter: Bike theft, stalking, arson
+  Entry: Between 9:25 a.m. on Sept. 6 and 1:47 p.m., fraudulent grand theft occurred at EVGR Building A.
+
+- Title: Police blotter: Bike theft, vehicle burglary, hit and run
+  Entry: Between 9:16 and 10:20 a.m., grand theft of over $950 in property occurred at Kennedy Commons.
+
+- Title: Police Blotter: Bike theft, vehicle burglary, battery
+  Entry: Between 12:30 p.m. on Sept. 29 and 9 a.m., grand theft of over $950 occurred at the law school.
+
+- Title: Police Blotter: Rape, battery, bike theft
+  Entry: Between 1 p.m. and 2:30 p.m., grand theft from a vehicle occurred at the Oval.
+
+- Title: Police Blotter: Bike theft, burglary, battery
+  Entry: Between 7 a.m. and 4:10 p.m., a grand theft of greater than $950 occurred at the Knight Management Center Garage.
+
+
+## Bike Theft
+
+- Title: Police Blotter: Bike theft, vehicle burglary, battery
+  Entry: Between 7:19 p.m. and 8:19 p.m., a bike theft occurred at the Center for Clinical Sciences Research.
+
+- Title: Police Blotter: Arson, battery, bike theft
+  Entry: Between 10 p.m. on Oct. 22 and 6:45 a.m. on Oct. 23, grand bike theft occurred at a residence at 503 Olmsted Road.
+
+- Title: Police Blotter: Burglary, theft, hate speech
+  Entry: Between 10:30 p.m. on Nov. 8 and 10:30 a.m, a grand bike theft occurred at Escondido Village Studio 5.
+
+- Title: Police Blotter: Burglary, weapon possession, hate violence
+  Entry: Between 11:59 a.m. on Nov. 19 and 2 p.m. on Nov 20, a grand bike theft occurred at Escondido Village Building 83.
+
+- Title: Police Blotter: Battery, bike theft, hate violence
+  Entry: Between 2 p.m. on Dec. 9 and 11 a.m. on Jan. 25, a petty bike theft occurred at Sterling Quad.
+
+
+## Burglary
+
+- Title: Police Blotter: Bike theft, stalking, arson
+  Entry: Between 3:55 and 4:45 p.m., burglary of a vehicle occurred at the Tresidder Memorial Union Parking Lot.
+
+- Title: Police blotter: Bike theft, vehicle burglary, hit and run
+  Entry: Between 11 a.m. and 12 p.m., a vehicle burglary occurred at the corner of Roth Way and Palm Drive.
+
+- Title: Police Blotter: Bike theft, vehicle burglary, battery
+  Entry: Between 1:30 and 2:30 p.m., a vehicle burglary occurred at the Stanford Visitor Center.
+
+- Title: Police Blotter: Vehicle burglary, bike theft, disorderly conduct
+  Entry: Between 1 and 2:50 p.m., a vehicle burglary occurred at Tresidder Memorial Union.
+
+- Title: Police Blotter: Rape, battery, bike theft
+  Entry: Between 1:30 p.m. and 3:30 pm., a vehicle burglary occurred at the Oval.
+
+
+## Battery
+
+- Title: Police Blotter: Bike theft, stalking, arson
+  Entry: At 2 p.m., a student was involved in battery at the Oval on Palm Drive.
+
+- Title: Police Blotter: Bike theft, vehicle burglary, battery
+  Entry: At 11:30 p.m., a battery with serious injury occurred at 680 Lomita Drive.
+
+- Title: Police Blotter: Rape, battery, bike theft
+  Entry: At 12:52 a.m., a battery occurred against a non-cohabitant at Phi Kappa Psi. The perpetrator was also cited for alcohol-related disorderly conduct.
+
+- Title: Police Blotter: Arson, battery, bike theft
+  Entry: A spouse/ex-spouse/date battery occurred at an unknown time on Stanford campus.
+
+- Title: Police Blotter: Bike theft, burglary, battery
+  Entry: Between 7:30 p.m. and 7:40 p.m., a battery by a spouse or domestic partner occurred at a residence at 706 Tolman Drive.
+
+
+## Vehicle Theft
+
+- Title: Police Blotter: Vehicle theft, property theft
+  Entry: Between 9 a.m. on Dec. 15 and 9 a.m., an attempted vehicle theft occurred at Manzanita Parking Garage.
+
+- Title: Police Blotter: Loitering, bike theft, reported shots fired
+  Entry: Between 5 p.m. on Jan. 13 and 12:30 p.m. on Jan. 15, a vehicle theft occurred at Rains Apartments Building 218.
+
+- Title: Police Blotter: Bike theft, vehicle tampering, petty theft
+  Entry: Between 11:30 p.m. on Feb. 9 and 6 p.m., a petty vehicle theft occurred in the Governor’s Corner parking lot.
+
+- Title: Police blotter: Bike theft, petty theft
+  Entry: At 12:26 p.m., a vehicle theft occurred at Crothers Hall.
+
+- Title: Police Blotter: Bike theft, petty theft
+  Entry: Between March 5 and March 6 at 9:30 a.m., vehicle theft occurred at Kimball Hall.
+
+
+## Stalking
+
+- Title: Police Blotter: Bike theft, stalking, arson
+  Entry: At 10:15 a.m., stalking and disorderly conduct was reported at Shriram Center.
+
+- Title: Police blotter: Bike theft, vehicle theft
+  Entry: Between March 27 and March 29, an active case of stalking was reported at the Chem-H building.
+
+- Title: Police Blotter: burglary, inappropriate conduct, vandalism
+  Entry: Between 11:49 a.m. on Aug. 15 and 1:34 a.m. on Nov. 15, stalking was reported at 450 Jane Stanford Way.
+
+- Title: Police Blotter: Grand theft, disturbance of a religious meeting
+  Entry: Between 10:30 a.m. and 10:45 a.m. on Nov. 15, stalking was reported at Kingscote Gardens.
+
+- Title: Police Blotter: Noise, stalking, motor vehicle thefts
+  Entry: Between an unspecified time on Jun. 20, 2016 and 12 p.m. on Nov. 27, 2022, stalking was reported at 643 Jane Stanford Way.
+
+
+## Rape
+
+- Title: Police blotter: Bike theft, vehicle burglary, hit and run
+  Entry: Between 11 p.m. on Sept. 25 and 12 a.m., assault to commit rape occurred at Sigma Phi Epsilon.
+
+- Title: Police Blotter: Rape, battery, bike theft
+  Entry: At 12:01 a.m., an assault to commit rape was reported at the Stanford Hospital.
+
+- Title: Police Blotter: Burglary, weapon possession, hate violence
+  Entry: Between 10 p.m. on Nov. 19 and 1 a.m., an assault to commit rape against a student occurred on Stanford campus.
+
+- Title: Police Blotter: Hit-and-run, grand theft, assault
+  Entry: At an unknown time between Feb. 5 and Feb. 6., an assault to commit rape was reported at an undisclosed location.
+
+- Title: Police Blotter: hit and run, threats to student safety
+  Entry: At an unknown time, student safety was threatened with an assault to commit rape at 450 Jane Stanford Way.
+
+
+## Assault
+
+- Title: Police blotter: Bike theft, vehicle burglary, hit and run
+  Entry: Between 11 p.m. on Sept. 25 and 12 a.m., assault to commit rape occurred at Sigma Phi Epsilon.
+
+- Title: Police Blotter: Rape, battery, bike theft
+  Entry: At 12:01 a.m., an assault to commit rape was reported at the Stanford Hospital.
+
+- Title: Police Blotter: Burglary, weapon possession, hate violence
+  Entry: Between 10 p.m. on Nov. 19 and 1 a.m., an assault to commit rape against a student occurred on Stanford campus.
+
+- Title: Police Blotter: Hit-and-run, grand theft, assault
+  Entry: At an unknown time between Feb. 5 and Feb. 6., an assault to commit rape was reported at an undisclosed location.
+
+- Title: Police Blotter: hit and run, threats to student safety
+  Entry: At an unknown time, student safety was threatened with an assault to commit rape at 450 Jane Stanford Way.
+
+
+## Hate Violence
+
+- Title: Police blotter: Bike theft, vehicle burglary, hit and run
+  Entry: Between 6:10 and 8:38 p.m., non-criminal hate violence occurred at the Faculty Club.
+
+- Title: Police Blotter: Rape, battery, bike theft
+  Entry: Between Oct. 6 and an unknown time on Oct. 13, an incident of non-criminal hate violence occurred at Building 320.
+
+- Title: Police Blotter: Burglary, theft, hate speech
+  Entry: At 3:30 a.m., an act of non-criminal hate violence in the form of offensive words occurred at 100 Palm Drive.
+
+- Title: Police Blotter: Burglary, weapon possession, hate violence
+  Entry: At 4:49 p.m., an act of non-criminal hate violence occurred at Roble Hall.
+
+- Title: Police Blotter: Hate violence, grand theft, burglary
+  Entry: At 2 p.m., an act of non-criminal hate violence occurred at the Stanford Bookstore.
+
+
+## Arson
+
+- Title: Police Blotter: Bike theft, stalking, arson
+  Entry: At 8:30 a.m., arson of an inhabited structure occurred at 668 Cabrillo Ave.
+
+- Title: Police Blotter: Arson, battery, bike theft
+  Entry: At 4:02 p.m., arson occurred at the Bing Wing of Green Library.
+
+- Title: Police Blotter: Breaking and entering, hit-and-run, arson
+  Entry: At 1:14 a.m., property arson was reported at Florence Moore Hall.
+
+- Title: Police Blotter: Attempted extortion, aggravated injury and rape
+  Entry: Rape (with the victim incapable of giving consent) at 12:49 p.m. on Dec. 17 was reported at 450 Jane Stanford Way. According to Bill Larson, crime prevention and community safety office at Stanford, a campus security authority received a report from a female student claiming she was sexually assaulted while unconscious by a male student. The identities of both students involved are unknown.
+
+- Title: Police Blotter: Grand theft, arson and vandalism
+  Entry: Arson of an inhabited structure or property at 10:16 a.m. was reported at 35 Angell Court (Escondido Village 1, Building 35).
+

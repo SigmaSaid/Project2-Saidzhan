@@ -26,7 +26,7 @@ The security cameras showed only fragments: a hooded figure walking confidently 
 
 The investigation soon uncovered something surprising. The same individual had appeared near several buildings over the previous month, each time targeting unattended electronics or bicycles secured with inexpensive cable locks. None of the thefts involved force. Opportunity was enough.
 
-Campus police increased patrols, and students received another reminder to lock doors, register bicycles, and never leave valuables unattended. Some ignored the message, believing Stanford was too safe for crime.
+Campus police increased patrols, and students received another reminder to lock doors, register bicycles, and never leave valuables unattended. Some ignored the message, believing such precautions unnecessary.
 
 A week later, another report arrived—a bicycle missing outside a residence hall. Then a backpack disappeared from a café patio. The pattern continued until an observant graduate student recognised the suspect from a campus safety bulletin and quietly alerted police.
 
@@ -40,4 +40,17 @@ Walking back across campus, she passed a row of bicycles, each secured with heav
 
 The campus had not become less trusting. It had simply become wiser.
 
-Crime at Stanford rarely resembled the dramatic scenes of detective novels. More often, it was ordinary: a forgotten backpack, an unlocked door, a bicycle left unattended for just a little too long. Yet those ordinary moments reminded everyone that even one of the world's leading universities was not immune to the simple crimes of opportunity—and that awareness remained one of the most effective forms of prevention.
+Crime at Stanford rarely resembled the dramatic scenes of detective novels. More often, it was ordinary: a forgotten backpack, an unlocked door, a bicycle left unattended for just a little too long. Yet those ordinary moments reminded everyone that no campus is fully immune to the simple crimes of opportunity—and that awareness remained one of the most effective forms of prevention.
+
+## Note on Sources
+
+This story dramatizes recurring patterns documented in the 
+Stanford Daily police blotter (*stanforddams/daily* dataset, 2021–2026). 
+The narrative is grounded in the following documented incidents:
+
+- **Petty Theft**: From *Police Blotter: Bike theft, stalking, arson*: "Between 10 and 10:45 a.m., a petty theft occurred at the Mechanical Engineering Administrative Building."
+- **Petty Theft**: From *Police blotter: Bike theft, vehicle burglary, hit and run*: "Between 11 a.m. on Sept. 21 and 8:30 a.m., petty theft occurred at 450 Jane Stanford Way."
+- **Petty Theft**: From *Police Blotter: Bike theft, vehicle burglary, battery*: "At an unknown time and location, petty theft occurred."
+
+
+The fictional character of Maya represents students affected by unattended-electronics theft, which appears repeatedly in the dataset. The pattern of a suspect targeting multiple buildings reflects documented repeat-offender cases in the data. All specific details of the arrest and recovery are dramatized, but the underlying crime patterns—opportunity-driven theft of unattended property—are derived from actual police blotter entries. For the complete raw entries underlying this analysis, see `sources.txt`.
